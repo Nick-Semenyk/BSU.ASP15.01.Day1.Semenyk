@@ -22,7 +22,11 @@ namespace NewtonsSqrt
 
         public static double Calculate(double x, int n)
         {
-            if (x < 0 || n <= 0)
+            if (n <= 0)
+            {
+                throw new ArgumentException();
+            }
+            if (x < 0 && n%2 == 0)
             {
                 return double.NaN;
                 //throw new ArgumentException();
