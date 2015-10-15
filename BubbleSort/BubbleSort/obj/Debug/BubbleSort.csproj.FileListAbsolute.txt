@@ -1,0 +1,4 @@
+E:\7 сем\EPAM\Day1\BubbleSort\BubbleSort\bin\Debug\BubbleSort.dll
+E:\7 сем\EPAM\Day1\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\7 сем\EPAM\Day1\BubbleSort\BubbleSort\obj\Debug\BubbleSort.dll
+E:\7 сем\EPAM\Day1\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

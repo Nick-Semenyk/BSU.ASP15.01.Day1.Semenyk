@@ -1,0 +1,7 @@
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\bin\Debug\TestForNewtonsMethod.exe
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\bin\Debug\TestForNewtonsMethod.pdb
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\obj\Debug\TestForNewtonsMethod.exe
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\obj\Debug\TestForNewtonsMethod.pdb
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\bin\Debug\TestForNewtonsMethod.exe.config
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\obj\Debug\TestForNewtonsMethod.csprojResolveAssemblyReference.cache
+E:\7 сем\EPAM\Day1\TestForNewtonsMethod\TestForNewtonsMethod\bin\Debug\NewtonsSqrt.dll
